@@ -50,4 +50,8 @@ Image classification model using pretrained keras ResNet50 model:
 [Classify ImageNet classes with ResNet50](https://keras.io/api/applications/)
 
 
+![CODDE](object.gif)
+
+
+Thank You !
 
