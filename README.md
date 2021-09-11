@@ -13,16 +13,16 @@ A web application where one can upload image as per ones wish and application wi
 
 Install Keras:
 > For Backend
-```
+```python
 pip install kera
 ```
 Install Tensorflow:
-```
+```python
 pip intall tensorflow
 ```
 Install django:
 > For Frontend
-```
+```python
 pip install django
 ```
 
